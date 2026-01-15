@@ -1,0 +1,13 @@
+.counter-value-display {
+  padding: 15px;
+  border-radius: 8px;
+  margin: 10px 0;
+  background-color: #f3e5f5;
+  border: 2px solid #9c27b0;
+}
+
+.counter-value-display p {
+  font-size: 18px;
+  margin: 0;
+  color: #7b1fa2;
+}
